@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Kaynak Dosyalar">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Üst Bilgi Dosyaları">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Kaynak Dosyaları">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="PWPickaxeGemstoneInfo.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="pickaxegemstone.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pickaxegemstone.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="PWPickaxeGemstoneInfo.rc">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\Downloads\Dark_Pickaxe.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Epic_Pickaxe.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Master_Pickaxe.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Heavy_Pickaxe.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Sturdy_Pickaxe.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Classic_Pickaxe.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Basic_Pickaxe.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Crappy_Pickaxe.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Flimsy_Pickaxe.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Emerald_Large.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Emerald_Medium.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Emerald_Small.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Emerald_Huge.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Emerald_Tiny.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Topaz_Huge.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Topaz_Large.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Topaz_Medium.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Topaz_Small.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Diamond_Huge.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Diamond_Large.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Topaz_Tiny.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Diamond_Medium.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Diamond_Small.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Diamond_Tiny.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Ruby_Huge.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Ruby_Medium.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Ruby_Large.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Ruby_Small.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Ruby_Tiny.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Sapphire_Huge.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Sapphire_Large.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Sapphire_Medium.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Sapphire_Tiny.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\Sapphire_Small.bmp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
